@@ -1,2 +1,2 @@
-getio һ���Զ�ȡ����io�ķ�ʽ
-������
+getio 一次性读取所有io的方式
+优点是 代码少 没使用fsmc
